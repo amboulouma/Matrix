@@ -1,3 +1,3 @@
 # Matrix
 
-Welcome to the [Matrix](https://flambok.github.io/Matrix/) (Preview)
+Welcome to the [Matrix](https://aminemboulouma.github.io/Matrix/) (Preview)
